@@ -1,0 +1,41 @@
+Currency_Name,List_of_Symbols,Founder(s),Hash_Algorithm,Implemented_Language,Consensus mechanism,Description,Release_Year,Symbol,Active_Flag
+Bitcoin,"BTC, XBT, ₿",Satoshi Nakamoto,SHA-256d,C++,PoW,"The first and most widely used decentralized ledger currency,[7] with the highest market capitalization.[8]",2009,BTC,Y
+Litecoin,"LTC, Ł",Charlie Lee,Scrypt,C++,PoW,One of the first cryptocurrencies to use scrypt as a hashing algorithm.,2011,LTC,Y
+Namecoin,NMC,Vincent Durham,SHA-256d,C++,PoW,"Also acts as an alternative, decentralized DNS.",2011,NMC,Y
+Peercoin,PPC,Sunny King,SHA-256d,C++,PoW & PoS,The first cryptocurrency to use both PoW and PoS functions.,2012,PPC,Y
+Dogecoin,"DOGE, XDG, Ð",Jackson Palmer& Billy Markus,Scrypt,C++,PoW,Based on the Doge internet meme.,2013,DOGE,Y
+Gridcoin,GRC,Rob Hälford,Scrypt,C++,Decentralized PoS,Linked to citizen science through the Berkeley Open Infrastructure for Network Computing[19],2013,GRC,Y
+Primecoin,XPM,Sunny King,1CC/2CC/TWN,"TypeScript, C++",PoW,Uses the finding of prime chains composed of Cunningham chains and bi-twin chains for proof-of-work.,2013,XPM,Y
+Ripple,XRP,Chris Larsen &Jed McCaleb,ECDSA,C++,"""Consensus""",Designed for peer to peer debt transfer. Not based on bitcoin.,2013,XRP,Y
+Nxt,NXT,BCNext,SHA-256d,Java,PoS,Specifically designed as a flexible platform to build applications and financial services around its protocol.,2013,NXT,Y
+Auroracoin,AUR,Baldur Odinsson,Scrypt,C++,PoW,"Created as an alternative currency for Iceland, intended to replace the Icelandic króna.",2014,AUR,Y
+Dash,DASH,Evan Duffield &Kyle Hagan,X11,C++,PoW & Proof of Service,"A bitcoin-based currency featuring instant transactions, decentralized governance and budgeting, and private transactions.",2014,DASH,Y
+NEO,NEO,Da Hongfei & Erik Zhang,SHA-256 & RIPEMD160,C#,dBFT,"China based cryptocurrency, formerly ANT Shares and ANT Coins. The names were changed in 2017 to NEO and GAS.",2014,NEO,Y
+MazaCoin,MZC,BTC Oyate Initiative,SHA-256d,C++,PoW,"The underlying software is derived from that of another cryptocurrency, ZetaCoin.",2014,MZC,Y
+Monero,XMR,Monero Core Team,RandomX,C++,PoW,Privacy-centric coin based on the CryptoNote protocol with improvements for scalability and decentralization.,2014,XMR,Y
+Titcoin,TIT,Edward Mansfield & Richard Allen,SHA-256d,"TypeScript, C++",PoW,The first cryptocurrency to be nominated for a major adult industry award.[37],2014,TIT,Y
+Verge,XVG,Sunerok,"Scrypt, x17, groestl, blake2s, and lyra2rev2","C, C++",PoW,Features anonymous transactions using Tor.,2014,XVG,Y
+Stellar,XLM,Jed McCaleb,Stellar Consensus Protocol  ,"C, C++",Stellar Consensus Protocol  ,"Open-source, decentralized global financial network.",2014,XLM,Y
+Vertcoin,VTC,David Muller,Lyra2RE,C++,PoW,Aims to be ASIC resistant.,2014,VTC,Y
+Ethereum,"ETH, Ξ",Vitalik Buterin,Ethash,"C++, Go","PoW, PoS",Supports Turing-complete smart contracts.,2015,ETH,Y
+Ethereum Classic,ETC,,EtcHash/Thanos,,PoW,An alternative version of Ethereum[48] whose blockchain does not include the DAO hard fork.[49] Supports Turing-complete smart contracts.,2015,ETC,Y
+Nano,Nano,Colin LeMahieu,Blake2,C++,Open Representative Voting,"Decentralized, feeless, open-source, peer-to-peer cryptocurrency. First to use a Block Lattice structure.",2015,Nano,Y
+Tether,USDT,Jan Ludovicus van der Velde,Omnicore,,PoW,Tether claims to be backed by USD at a 1 to 1 ratio. The company has been unable to produce promised audits.[53],2015,USDT,Y
+Firo,FIRO,Poramin Insom,Merkle tree Proof,C++,PoW,The first financial system employing Zero-knowledge proof to protect users' privacy.[54] It conducted the world's first large-scale blockchain election for Thailand Democrat Party in 2018.[57],2016,FIRO,Y
+Zcash,ZEC,Zooko Wilcox,Equihash,C++,PoW,"The first open, permissionless financial system employing zero-knowledge security.",2016,ZEC,Y
+Bitcoin Cash,BCH,,SHA-256d,,PoW,"Hard fork from bitcoin, increased maximum block size from 1MB to 8MB (as of 2018[update], 32MB)",2017,BCH[59],Y
+EOS.IO,EOS,Dan Larimer,,"WebAssembly, Rust, C, C++",delegated PoS,Feeless Smart contract platform for decentralized applications and decentralized autonomous corporations with a block time of 500 ms.[60],2017,EOS,Y
+Cardano,"ADA, ₳",Charles Hoskinson,"Ouroboros, PoS Algorithm",Haskell,PoS,A proof-of-stake blockchain platform: developed through evidence-based methods and peer-reviewed research.[63][64][65],2017,ADA,Y
+TRON,TRX,Justin Sun,,"Java, Solidity",,,2017,TRX,Y
+AmbaCoin,AMBA,,,,,official cryptocurrency of the Cameroonian separatist entity of Ambazonia,2018,AMBA,Y
+Algorand,ALGO,Silvio Micali,,Go,PoS,Uses a verifiable random function to randomly select groups of users to certify blocks.[68],2019,ALGO,Y
+Avalanche,AVAX,"Emin Gün Sirer, Kevin Sekniqi, Maofan “Ted” Yin",,,PoS,,2020,AVAX,Y
+Shiba Inu,SHIB,Ryoshi,,,PoS,,2020,SHIB,Y
+DeSo,DESO,Nader al-Naji ,,Go,PoW,"Also a social media platform, resembling Twitter.[72][73] Known as BitClout until September 2021.[69]",2021,DESO,Y
+SafeMoon,SAFEMOON,SafeMoon LLC,,Solidity,PoW,,2021,SAFEMOON,Y
+Internet Computer,ICP,"Dominic Williams, DFINITY Foundation",,Rust,,,2021,ICP,Y
+Coinye,"KOI, COYE",,Scrypt,,PoW,"Used American hip hop artist Kanye West as its mascot, abandoned after he filed a trademark lawsuit.",2014,KOI,N
+OneCoin,ONE,Ruja Ignatova and Stephen Greenwood,,,,A Ponzi scheme promoted as a cryptocurrency.,2015,ONE,N
+BitConnect,BCC,,,,,"BitConnect was described as an open source, all-in-one bitcoin and crypto community platform but was later discovered to be a Ponzi scheme.",2017,BCC,N
+KodakCoin,KODAK,Kodak and WENN Digital,Ethash,,,"KodakCoin is a ""photographer-centric"" blockchain cryptocurrency used for payments for licensing photographs.",2018,KODAK,N
+Petro,PETRO,Venezuelan Government,onixCoin,C++,,Stated by Nicolás Maduro to be backed by Venezuela's reserves of oil. As of August 2018[update] it does not appear to function as a currency.[79],2018,PETRO,N
